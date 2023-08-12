@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "start": "deno run -A --unstable --watch main.ts",
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "grammy": "https://deno.land/x/grammy@v1.17.2/mod.ts",
+    "dotenv": "https://deno.land/std@0.197.0/dotenv/mod.ts",
+    "@grammyjs/parse-mode": "https://deno.land/x/grammy_parse_mode@1.7.1/mod.ts"
+  }
+}
