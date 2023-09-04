@@ -6,6 +6,9 @@
   "imports": {
     "grammy": "https://deno.land/x/grammy@v1.17.2/mod.ts",
     "dotenv": "https://deno.land/std@0.197.0/dotenv/mod.ts",
-    "@grammyjs/parse-mode": "https://deno.land/x/grammy_parse_mode@1.7.1/mod.ts"
+    "@grammyjs/parse-mode": "https://deno.land/x/grammy_parse_mode@1.7.1/mod.ts",
+    "stable-diffusion-webui": "https://raw.githubusercontent.com/watzon/stable-diffusion-client/main/mod.ts",
+    "imagescript": "https://deno.land/x/imagescript@1.2.15/mod.ts",
+    "evt": "https://deno.land/x/evt@v2.4.22/mod.ts"
   }
 }
